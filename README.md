@@ -1,3 +1,13 @@
+<!-- TOP LANGUAGES -->
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-xi-seven-97.vercel.app/api/top-langs/?username=Yes-Mayank&layout=compact&theme=gruvbox"
+    alt="Top Languages"
+  />
+</p>
+
 # 💫 About Me:
 🚀 Fun Facts About Me - <br>     👨‍💻 I’m a freshman at DY Patil International University, Akurdi, pursuing B.Tech in CSE<br>     🧠 I love problem-solving and exploring the world of coding<br>     🐍 Currently diving into Python and loving every bit of it!<br>     🌱 I’m learning Git & GitHub to build awesome projects collaboratively<br>     📚 Always curious to learn new tech and tools<br>     💡 Believer in: “Code, Break, Fix, Repeat” 🔁
 
