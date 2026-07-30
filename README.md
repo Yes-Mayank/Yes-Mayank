@@ -1,39 +1,52 @@
-<!-- TOP LANGUAGES -->
+<div align="center">
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-xi-seven-97.vercel.app/api/top-langs/?username=Yes-Mayank&layout=compact&theme=gruvbox"
-    alt="Top Languages"
-  />
-</p>
+<img src="./portrait.svg" alt="Mayank Kumar" width="460" />
 
-# 💫 About Me:
-🚀 Fun Facts About Me - <br>     👨‍💻 I’m a freshman at DY Patil International University, Akurdi, pursuing B.Tech in CSE<br>     🧠 I love problem-solving and exploring the world of coding<br>     🐍 Currently diving into Python and loving every bit of it!<br>     🌱 I’m learning Git & GitHub to build awesome projects collaboratively<br>     📚 Always curious to learn new tech and tools<br>     💡 Believer in: “Code, Break, Fix, Repeat” 🔁
+### Mayank Kumar
 
+CS student · Bay Area of Bihar (Ara) by way of Pune · building small tools and school-management interfaces
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayank-kumar-6598b7371/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankkumarjune@gmail.com) 
+[instagram](https://www.instagram.com/ig_chatterbox/) · [linkedin](https://www.linkedin.com/in/mayank-kumar-dyp) · [email](mailto:devbyintent@gmail.com)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yes-Mayank&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yes-Mayank&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yes-Mayank&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yes-Mayank&theme=react&no-frame=false&no-bg=true&margin-w=4)
+## about
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> Second-year B.Tech CSE student, currently interning as a web developer, building front-end prototypes and school-management interfaces for real institutions.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yes-Mayank&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+I like taking a messy, real-world process — attendance, quizzes, admissions, student records — and turning it into a clean role-based dashboard. Also into fitness, fragrances, gaming, and long train rides (yes, I will talk your ear off about the Deccan Queen's Vistadome coach).
 
----
-[![](https://visitcount.itsvg.in/api?id=Yes-Mayank&icon=0&color=0)](https://visitcount.itsvg.in)
+## stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+`python` `javascript` `typescript` `react` `tanstack-query` `html` `css` `c` `c++` `git` `ai/ml`
+
+## projects
+
+**[EduTrack](https://github.com/Yes-Mayank/EduTrack)** · `typescript` `react` `tanstack-query`
+School assessment and performance-tracking platform — teachers create and manage quizzes, students take tests online, and both sides monitor progress through detailed reports.
+
+**[STSV-Connect](https://github.com/Yes-Mayank/STSV-Connect)** · `html` `css` `js`
+Official website prototype for STSV International School — school info, admission enquiry form, facilities, and contact details. [Live](https://yes-mayank.github.io/STSV-Connect/)
+
+**[MPM-Connect](https://github.com/Yes-Mayank/MPM-Connect)** · `html` `css` `js`
+Frontend prototype of a college management portal for Madhrao Patil Mahavidyalaya — role-based dashboards, attendance, quizzes, notices, student records.
+
+**[Js.learning](https://github.com/Yes-Mayank/Js.learning)** · `javascript`
+A structured, ongoing record of my JavaScript fundamentals, practice exercises, and mini-projects.
+
+## stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yes-Mayank&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yes-Mayank&layout=compact&theme=github_dark&hide_border=true" height="165" alt="top languages" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Yes-Mayank&theme=github-dark-blue&hide_border=true" alt="streak stats" />
+</div>
+
+<br>
+
+<sub>Portrait above is generated from a photo by <code>generate_portrait.py</code> — each visible glyph is chosen from a code-flavored character set weighted by local brightness, blank where the source photo is background. A daily GitHub Action re-rolls the seed and commits <code>portrait.svg</code> only when it changes, which is why the texture drifts slightly over time.</sub>
