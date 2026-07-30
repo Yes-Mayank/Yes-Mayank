@@ -4,7 +4,7 @@
 
 ### Mayank Kumar
 
-CS student · Bay Area of Bihar (Ara) by way of Pune · building small tools and school-management interfaces
+commit code, not crime
 
 [instagram](https://www.instagram.com/ig_chatterbox/) · [linkedin](https://www.linkedin.com/in/mayank-kumar-dyp) · [email](mailto:devbyintent@gmail.com)
 
